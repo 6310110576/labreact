@@ -4,12 +4,12 @@ import CharacterCard from './CharacterCard';
 import WordCard from './WordCart';
 const word = "Hello";
 function App() {
- return (
-   <div>
+  return (
+    <div>
       {
-        <WordCard value = {word}/>
+        <WordCard value="hello"/>
       }
-   </div>
+    </div>
  );
 }
 export default App;
