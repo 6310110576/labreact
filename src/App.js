@@ -6,7 +6,8 @@ import WordCard from './WordCart';
 const word = "Hello";
 function App() {
   return (
-    <div>
+    <div className = 'body'>
+      <h1 className = 'h1'>CARDGAME</h1>
       {
         <WordCard value = {word}/>
       }
