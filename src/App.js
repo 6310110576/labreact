@@ -11,6 +11,7 @@ function App() {
       {
         <WordCard value = {word}/>
       }
+      <p>By 6310110576</p>
     </div>
  );
 }
