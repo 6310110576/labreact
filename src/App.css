@@ -4,11 +4,17 @@
   width: 3em;
   font-size: 2em;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  margin: 1em;
+  margin: 3em;
   user-select: none;
+  border: 1px solid blue;
+  font-family: "Times New Roman", Times, serif;
  }
 .activeCard {
   color: rgb(0, 0, 0);
   background: orange;
   box-shadow: 10px 10px;
+  border: 1px solid blue;
+  margin: 3em;
+  font-family: "Times New Roman", Times, serif;
  }
+
